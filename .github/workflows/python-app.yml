@@ -24,4 +24,5 @@ jobs:
       with:
         python-version: "3.10"
     - name: print
-      run: python -c "print("Hola Carlos")"
+      run: python -c "print('Hola Carlos')"
+      
